@@ -11,4 +11,4 @@ Implements web push notifications with OneSignal in symfony
 Read [OneSignal Docs](https://documentation.onesignal.com/docs)
 
 ## License
-The code is licensed under the [MIT License](https://github.com/habibun/symfony-cache/blob/master/LICENSE).
+The code is licensed under the [MIT License](https://github.com/habibun/symfony-one-signal/blob/master/LICENSE).
